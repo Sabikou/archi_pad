@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Default View"
+    id="id-d0969ea82597461187af0924dc564cc3">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-30de9b3f5f6d4574ad66e8b5333fdf3c">
+    <bounds
+        x="124"
+        y="95"
+        width="120"
+        height="206"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-b931b7a0966a4f94a1e128ddddf8bc91.xml#id-b931b7a0966a4f94a1e128ddddf8bc91"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5fc2689b9f6b4fa687088c3ddeb1bdf8">
+    <bounds
+        x="500"
+        y="194"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-e52bd98017034189b5dfdc6abe3e9f1f.xml#id-e52bd98017034189b5dfdc6abe3e9f1f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-90c4274a110f403e84ccf94e11e92d42">
+    <bounds
+        x="387"
+        y="255"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessInteraction"
+        href="BusinessInteraction_id-f888715d838a41e1a2f137550d273288.xml#id-f888715d838a41e1a2f137550d273288"/>
+  </children>
+</archimate:ArchimateDiagramModel>
