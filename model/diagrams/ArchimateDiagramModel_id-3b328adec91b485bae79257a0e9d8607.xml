@@ -100,4 +100,28 @@
         xsi:type="archimate:Resource"
         href="Resource_id-04e5aaa9b67d4c8c8b4ee0360212176e.xml#id-04e5aaa9b67d4c8c8b4ee0360212176e"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-64204209c873425f813fc3c6cab3f899">
+    <bounds
+        x="201"
+        y="198"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessInteraction"
+        href="BusinessInteraction_id-4af9dd36532440ada9909c74d7d79015.xml#id-4af9dd36532440ada9909c74d7d79015"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d5bcabb8d7a0477abb476ec2b4e3d4b4">
+    <bounds
+        x="25"
+        y="332"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessCollaboration"
+        href="BusinessCollaboration_id-cb38a991d85748429d4af3a86acbad87.xml#id-cb38a991d85748429d4af3a86acbad87"/>
+  </children>
 </archimate:ArchimateDiagramModel>
